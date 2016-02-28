@@ -1,0 +1,6 @@
+[wrap-file]
+directory = Botan-1.11.28
+
+source_url = http://botan.randombit.net/releases/Botan-1.11.28.tgz
+source_filename = Botan-1.11.28.tgz
+source_hash = a414c96f45b2707d4750d299ca03ec3fce5ada62ada1ba5cd012a9ace61f5932
